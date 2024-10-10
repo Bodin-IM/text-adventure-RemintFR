@@ -1,0 +1,1 @@
+fyrstikk -= 1
